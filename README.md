@@ -1,1 +1,1 @@
-## Advanced React patters tutorial
+## Advanced React patterns tutorial
