@@ -14,7 +14,7 @@ import React from 'react'
 const noop = () => {}
 
 class Switch extends React.Component {
-  render() {
+  render() { console.log('props: ', this.props);
     const {
       on,
       className = '',
